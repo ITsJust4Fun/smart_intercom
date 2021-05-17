@@ -1,0 +1,3 @@
+[submodule "smart_intercom_web"]
+	path = smart_intercom_web
+	url = ./smart_intercom_web
