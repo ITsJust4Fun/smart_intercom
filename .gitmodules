@@ -1,6 +1,6 @@
 [submodule "smart_intercom_web"]
 	path = smart_intercom_web
-	url = ./smart_intercom_web
+	url = https://github.com/ITsJust4Fun/smart_intercom_web
 [submodule "smart_intercom_api"]
 	path = smart_intercom_api
-	url = ./smart_intercom_api
+	url = https://github.com/ITsJust4Fun/smart_intercom_api
